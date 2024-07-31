@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Frontend Development & UI/UX Design**
 
-- 📫 How to reach me **vvchandrahasreddy@gmail.com**
+- 📫 How to reach me **vvchandrahasreddy7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
